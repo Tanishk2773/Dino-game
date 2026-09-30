@@ -1,5 +1,5 @@
 # Endless Runner
-
+<a href="index.html">click here to play</a>
 A small browser game built with HTML, CSS, and vanilla JavaScript. Jump over obstacles and try to beat your high score.
 
 ## Run the game
